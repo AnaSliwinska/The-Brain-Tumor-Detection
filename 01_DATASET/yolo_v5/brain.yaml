@@ -1,0 +1,11 @@
+
+path: /content/drive/MyDrive/01_DataScience/09_BRAIN_TUMOR_DETECTION/01_DATASET/yolo_v5/images  # dataset root dir
+train: train  # train images (relative to 'path') 
+val: val  # val images (relative to 'path') 
+test: test  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+nc: 1  # number of classes
+names: ['tumor']  # class names
+
+
