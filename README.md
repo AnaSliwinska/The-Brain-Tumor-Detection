@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/center4ml/EEG_age/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnaSliwinska/The-Brain-Tumor-Detection/)
 
 ## **The Brain Tumor Detection**
 
