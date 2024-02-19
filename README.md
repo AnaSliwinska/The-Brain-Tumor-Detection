@@ -24,19 +24,19 @@ yolov8: https://github.com/ultralytics/ultralytics
 
 **Results:** The experimental results and analysis are presented below for Yolov5  model:
 
-![image-20240219134702292](/home/ania/snap/typora/86/.config/Typora/typora-user-images/image-20240219134702292.png)
+![image-20240219134702292](/home/ania/Ania/DS/001_new_project/github/09_BRAIN_TUMOR_DETECTION/img/image-20240219134702292.png)
 
 The experimental results and analysis are presented below for Yolov8  model:
 
-![image-20240219134638120](/home/ania/snap/typora/86/.config/Typora/typora-user-images/image-20240219134638120.png)
+![image-20240219134638120](/home/ania/Ania/DS/001_new_project/github/09_BRAIN_TUMOR_DETECTION/img/image-20240219134638120.png)
 
 **Outcomes:** Below you can see examples with predict object and without object.
 
-![image16](/home/ania/Pobrane/image16.jpg)
+![image16](/home/ania/Ania/DS/001_new_project/github/09_BRAIN_TUMOR_DETECTION/img/image16.jpg)
 
 
 
-![image13](/home/ania/Pobrane/image13.jpg)
+![image13](/home/ania/Ania/DS/001_new_project/github/09_BRAIN_TUMOR_DETECTION/img/image13.jpg)
 
 
 
